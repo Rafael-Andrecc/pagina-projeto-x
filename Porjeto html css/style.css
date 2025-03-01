@@ -28,7 +28,7 @@ a:hover {
     border-color: darkblue;
     height: 200px;
     padding-top: 15px;
-    
+
 }
 
 .div2 {
@@ -85,10 +85,37 @@ a:hover {
 
 }
 
-.tabela2 {position:relative;
+.tabela2 {
+    position: relative;
     display: inline;
     left: 0%;
-    
+
     top: 50%;
 }
-.p2{font-size: 20pt; color: darkblue;}
+
+.p2 {
+    font-size: 20pt;
+    color: darkblue;
+}
+
+.tabela3 {
+    position: absolute;
+    left: 10%;
+}
+
+.h1_2 {
+    position: absolute;
+    right: 0%;
+    left: 32%;
+    top: 78%;
+}
+.tabela4 {
+    position: absolute;
+    left: 23%;
+    top: 90%;
+
+}
+.contatos{position: absolute;
+    right: 0%;
+    left: 49%;
+    top:110%;}
