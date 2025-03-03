@@ -10,6 +10,7 @@
 
 .body_copy {
     background-color: darkgrey;
+    overflow-x: hidden;
 }
 
 a {
@@ -99,23 +100,90 @@ a:hover {
 }
 
 .tabela3 {
-    position: absolute;
+    position: relative;
     left: 10%;
 }
 
 .h1_2 {
-    position: absolute;
+    position: relative;
     right: 0%;
     left: 32%;
     top: 78%;
 }
+
 .tabela4 {
-    position: absolute;
+    position: relative;
     left: 23%;
     top: 90%;
 
 }
-.contatos{position: absolute;
+
+.contatos {
+    position: relative;
     right: 0%;
     left: 49%;
-    top:110%;}
+    top: 110%;
+}
+
+.tabala_conntatos1 {
+    
+    position: relative;
+    border: 4px;
+    border: dotted, ;
+    border-color: red;
+    left: 41%;
+}
+
+.celula_tabala_contatos {
+    height: 15px;
+    width: 200px;
+    text-align: center;
+    border: 0px;
+    border: ridge, ;
+    border-color: red;
+    ;
+}
+
+.tabela_consulta{
+    position: relative;
+    background-color: yellow;
+    left:  38%;
+    width: 30%;
+
+
+
+}
+
+.celulas_consulta{     position: relative;
+   text-align: center ;
+
+}
+
+.div4 { position: relative; display: flex;
+    background-color: bisque;
+    height: 100px;
+    padding-bottom: 15px;}
+
+    .HTML_IMG{
+        position: relative;
+        left: 0%;
+       padding-left: 5px; 
+         padding-top: 10px;
+    
+    }
+    .p_bottom{ 
+       
+position: relative;
+top: 15px;
+font-size: 15pt;
+left: 35%;
+
+    }
+.CSS_img {
+    position: relative;
+    left: 68%;
+    right: 0%;
+    top: 0%;
+    padding-top: 15px;
+    padding-right: 10px;
+}
