@@ -1,0 +1,33 @@
+.Fundo_site {
+    background-color: lightgray;
+
+}
+
+.cabeçalho_Copy {
+
+    border: solid;
+    border-color: darkblue;
+    background-color: bisque;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    font-size: 50px;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.menu_cabeçalho {
+    background-color: lightskyblue;
+    height: 45px;
+
+
+}
+
+.itens_menu{ display: flex; flex-direction: row-reverse;    ;
+font-size: 20px;
+justify-content: center space-around   ;
+
+
+}
