@@ -1,0 +1,12 @@
+#canvas{ 
+    display: flex;
+    background-color: aqua;
+    width: 500px;
+    height: 500px;
+    justify-self: center;
+    align-content: center;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+
+}
